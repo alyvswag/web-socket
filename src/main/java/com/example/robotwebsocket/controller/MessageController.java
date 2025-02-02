@@ -21,5 +21,4 @@ public class MessageController {
         return new Message(msg.getDirection());
     }
 
-
 }
